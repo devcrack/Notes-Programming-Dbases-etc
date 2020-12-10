@@ -1,0 +1,6 @@
+## List or Show tables in a Database
+```
+> mysql -u root 
+> USE database_name;
+> SHOW TABLES;
+```
