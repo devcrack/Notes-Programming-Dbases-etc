@@ -45,3 +45,5 @@ Principos de la programacion extrema:
 Las tarjetas de historia o las historias de usuario juegan un papel fundamental en la Prgramacion Extrema ya que esta encapsula todas las necesidades del cliente, entonces el equipo de desarrollo implementa dicha necesidad o escenario en una liberacion futura del software.
 
 ![Historia Usuario](./resources/ejemp_historia_usuario.png "Historia de Usuario")
+
+cd
