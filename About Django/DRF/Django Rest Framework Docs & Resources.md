@@ -2,3 +2,7 @@
 
 - [Classy Django REST Framework.](http://www.cdrf.co/)
 
+## Django Rest Framework Configurations
+
+- https://www.programmersought.com/article/6018642840/
+- https://github.com/encode/django-rest-framework/blob/master/rest_framework/settings.py
