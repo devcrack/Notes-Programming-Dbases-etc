@@ -22,3 +22,8 @@ Set "current-workspace-only" to true
 
 ## Where are the stored the default background system pictures
 Usually are stored in: /usr/share/backgrounds
+
+## Automatically Change Wallpaper Periodically
+- [Desk Changer Gnome Extension](https://extensions.gnome.org/extension/1131/desk-changer/)
+
+- A good post about this: [4 ways of periodically change the wallpapers in linux](https://ubuntuhandbook.org/index.php/2018/07/4-wallpaper-changer-ubuntu-18-04/)
