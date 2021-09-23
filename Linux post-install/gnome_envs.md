@@ -61,4 +61,7 @@ Other usefull resources about this:
 - [KeyBindings spotify in linux](https://shkspr.mobi/blog/2011/12/linux-spotify-keybindings/)
 - [Some keybindings](https://pastebin.com/i1YfDLY6)
 - [How use Arrow Keys in XbindKeys](https://gist.github.com/mbergmanpga/c07c37a3d8da7c285060b714e01a5ee7)
+- [What are the MOD Keys](https://askubuntu.com/questions/120928/what-is-the-mod4d-shortcut-key)
+
+
 
