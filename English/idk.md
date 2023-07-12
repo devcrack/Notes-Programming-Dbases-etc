@@ -144,3 +144,147 @@ _Since_ have lived in France since 2021
 
 
 
+## Phrasal Verbs with "Fill"
+
+- **fill in**: to write information into the blanks on a form. 
+
+- **fill out**: To complete a form(words or sentences)
+
+- **fill up**: to put gas in a vehicle
+
+## Phrasal Verbs with Turn:
+
+Phrasal verbs with "turn" often involve switching something on or off. 
+They are also used for volume levels.
+
+- **turn off**: to stop a machine or light(also shut offf, shut down can be used)
+- **turn on**: to start a mchine or light
+- **turn down**: to lower in volume / to refuse
+- **turn up**: to make the volume higher / to suddenly appear
+
+## Phrasal Verbs with "Tear" 
+Pharasal verbs with "tear" often refer to ripping or destroying something.
+
+- **tear down**: to disassemble or completely take apart
+- **tear off**: to rip something away from something else. (Arrancar algo de otra cosa)
+- **tear up**: to rip something into many pieces.(Romper algo en muchos pedazos)
+
+## Phrasal verbs with Call
+Phrasal verbs with call often have to do with the telephone. Since "hang up" is also related to the telephone, it is included in this grouping. 
+
+- **call back**: To return a phone call.
+- **call off**: To cancel.
+- **call on**: to ask someone for an answer(usually by someone in a position of authority or in a group situation)
+- **call up**: To make a phone call.
+- **hang up**: To end a phone call. 
+
+ ## Phrasal Verbs with "Put"
+
+ Phrasal verbs with "put" often refer to the placement of an object. We also use "put on" for clothing. Since "take off" is also related to clothing, it is included in this grouping. 
+
+ - **put away**: To place something into an appropriate spot. 
+ - **put back**: To place something in the spot it was originally in. 
+ - **put down**: To stop holding something / to insult someone
+ - **put off**: to postpone or delay
+ - **put on**: to add clothing
+ - **put out**: To place something outside / to be inconvenienced by someone or something. 
+ - **take off**: remove clothing
+
+## Phrasal Verbs with Get
+Phrasal verbs with "get" often involve transportation. Note that the verbs in this group(with these meanings) are all inseparable.
+
+- **get in**: To enter a small method of transportation that is enclosed(such as a car), or to sit in something small that is hollowed out but not enclosed(such as a canoe)
+- **get off**: to exit a big method of transportation(such as a bus), or to leave something small but not enclosed(such a bycycle).
+- **get on**: to enter a big method of transportation(such as a bus), or to sit on something small but not enclosed(such as a bicycle)
+- **get out of**: to exit a smaller method of transportation that is enclosed(such as a car), or to leave something small that is hollowed out(ahuecado) but not enclosed(such as a canoe).
+- **get over**: to overcome(superar) or recover from something. 
+- **get along**: to have a good relationship with someone.
+- **get back**: to return from a trip. 
+- **get through**: to overcome or reach the end of something. 
+- **pick up**: To give some a ride
+- **ask out**: To ask out someone on a date. 
+
+## Social Life
+- **call up**: to make a phone call
+- **hang up**: to end a phone call
+- **call back**: to return a phone call
+- **pick up**: to give someone a ride
+- **ask out**: to ask out someone on a date
+- **call off**: to cancel
+- **put on**: to add clothing, cosmetics, etc.
+- **take off**: to remove clothing, cosmetics, etc.
+- **put down**: to stop holding something or someone
+- **run into**: to meet someone by chance
+- **get along with**: to have a good relationship with someone
+
+## Phrasal Verbs related to School 
+
+- **start over**: to begin again
+**tear up**: to rip something into many pieces
+- **figure out**: to find a solution
+- **hand in**: to give something to someone (usually a teacher)
+- **make up**: to lie or invent
+- **write down**: to write on a piece of paper
+- **throw away**: to put something into the trash
+- **turn off**: to stop a machine or light
+- **cross out**: to draw a line through something
+- **give up**: to quit
+- **call on**: to ask someone for an answer
+
+## Seperable Phrasal Verbs 
+
+- **ask out**: to ask someone on a date
+- **call back**: to return a phone call
+- **call off**: to cancel
+- **call up**: to make a phone call
+- **cross out**: to draw a line through something
+- **do over**: to complete something again
+- **figure out**: to find a solution
+- **fill in**: to write information into the blanks on a form
+- **fill out**: to complete a form (words or sentences)
+- **fill up**: to put gas in a vehicle
+- **give up**: to quit
+- **hand in**: to give something to someone (usually a teacher)
+- **hand out**: to give out something (especially papers)
+- **hang up**: to end a phone call
+- **look up**: to check or search for
+- **make up**: to lie or invent
+- **pick up**: to give someone a ride / to lift something up
+- **put away**: to place something in the spot it was originally in
+- **put off**: to postpone or delay
+- **put on**: to add clothing
+- **put out**: to place something outside / to be inconvenienced
+- **start over**: to begin again
+- **shut off**: to stop a machine or light
+- **take off**: to remove clothing
+- **tear down**: to disassemble or completely take apart
+- **tear off**: to rip something away from something else
+- **tear up**: to rip something into many pieces
+- **throw away**: to put something into the trash
+- **throw out**: to put something into the trash
+- **turn down**: to lower the volume
+- **turn off**: to stop a machine or light
+- **turn on**: to start a machine or light
+- **turn up**: to increase the volume / to appear suddenly
+- **wake up**: to stop sleeping
+- **write down**: to write on a piece of paper
+
+## Inseparable Phrasal Verbs
+
+- **call on**: to ask someone for an answer
+- **come over**: to go to someone's house
+- **get in**: to enter a small method of transportation that is enclosed (such as a car), or to sit in something small that is hollowed out but not enclosed (such as a canoe)
+- **get off**: to exit a big method of transportation (such as a bus), or to leave something small but not enclosed (such as a bicycle)
+- **get on**: to enter a big method of transportation (such as a bus), or to sit in something small but not enclosed (such as a bicycle)
+- **get out of**: to exit a small method of transportation that is enclosed (such as a car), or to leave something small that is hollowed out but not enclosed (such as a canoe)
+- **get over**: to overcome or recover from something
+- **run into**: to meet someone by chance
+
+## Inseparable Two- or Three-Word Phrasal Verbs
+
+- **drop in (on)** : to visit someone unexpectedly
+- **drop out (of)**: to quit a class or program
+- **get along (with)**: to have a good relationship with someone
+- **get back (from)**: to return from somewhere
+- **get through (with)**: to overcome or reach the end of something
+- **run out (of)**: to have no more
