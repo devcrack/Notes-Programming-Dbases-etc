@@ -1,7 +1,9 @@
 ## What is an object?
 An object is a collection of data with associated behaviors. 
 
+An object combines data (the properties and attributes) and functions (usually called methods). The data represents the state of the object and the methods represent the behavior and operations that the object can perform.   
 Object oriented means functionally directed toward modeling objects. 
+
 
 ### Properties 
 
