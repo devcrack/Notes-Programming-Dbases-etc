@@ -1,3 +1,10 @@
+## Initial setup of a Django Project
+### Creating a Project in Django
+```django-admin startproject <name_of_my_django_project>```
+### Creating an app in the project 
+```./manage.py start app <name_of_my_awesome_app>```
+
+
 ## Querysets Doccumentaiton
 https://docs.djangoproject.com/en/3.1/ref/models/querysets/
 
