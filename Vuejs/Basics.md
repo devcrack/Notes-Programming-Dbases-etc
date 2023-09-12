@@ -44,4 +44,44 @@ This remove the html from the page(from the DOM completly.
         _We have here an index.js file and such file we will configure our Vuex store._
 
 
+# Other Notes
+### Installing Vuetify 
+
+- Step 0
+    
+    In order to perform all the following steps for the installation of vuetify we need to have node installed in our 
+    developing machine:
+    ```
+    > sudo apt install nodejs
+    > sudo apt install npm
+    ```
+
+- Step 1
+    
+    Install:
+    ```
+    > npm install -g @vue/cli
+    ``` 
+- Step 2
+
+    Create a project: 
+    ```
+    > vue create my-app
+    ```
+- Step 3
+ 
+    Navigate to my-app directory 
+    and then install vuetify to be installed in plugins folder. 
+    
+    ```
+    > cd my-app
+    >  vue add vuetify
+    ```
+
+
+
+
+
+### Run the Project:
+```npm run serve```
 
