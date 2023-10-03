@@ -131,20 +131,31 @@ Las funciones de orden superior en Python son aquellas que aceptan una o más fu
     print(result)  # Output: 25
     ```
 ### Como funciona sort en Python
-    Sintaxis Basica de SORT:
-        ```python
-            sorted(iterable, *, key=None, reverse=False)
-        ```
+Sintaxis Basica de SORT:
+        
+```python
+    sorted(iterable, *, key=None, reverse=False)
+```
+- **iterable**: El objeto iterable cuyos elementos se van a ordenar.
 
-    1. Ordenamiento basico:
+- **key**: Una función personalizada de un solo argumento para extraer una clave de comparación de cada elemento (por ejemplo, key=str.lower). El valor por defecto es None, lo que significa que los elementos se comparan directamente.
+- **reverse**: Un booleano. Si se establece a True, los elementos se ordenan en orden descendente. Por defecto es False, lo que significa que los elementos se ordenan en orden ascendente.
 
-        ```python
-            numbers = [34, 2, 23, 12, 45]
-            sorted_numbers = sorted(numbers)
-            print(sorted_numbers)  
-            # Output: [2, 12, 23, 34, 45]
-            ```
-    
+
+1. Ordenamiento basico:
+
+    ```python
+        numbers = [34, 2, 23, 12, 45]
+        sorted_numbers = sorted(numbers)
+        print(sorted_numbers)  
+        # Output: [2, 12, 23, 34, 45]
+    ```
+2. Ordenamiento por longitud:
+```python
+words = ["apple", "Banana", "cherry"]
+sorted_words = sorted(words, key=len)
+print(sorted_words)  # Output: ['apple', 'cherry', 'Banana']
+```    
     
 
     
