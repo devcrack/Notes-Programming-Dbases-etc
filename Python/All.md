@@ -109,5 +109,44 @@ Las funciones de orden superior en Python son aquellas que aceptan una o más fu
     pairs = [(1, 'one'), (2, 'two'), (3, 'three'), (4, 'four')]
     sorted_pairs = sorted(pairs, key=lambda x: x[1])
     print(sorted_pairs)  # Output: [(4, 'four'), (1, 'one'), (3, 'three'), (2, 'two')]
-
     ```
+    6. Uso en un decorador:
+        ```python
+        def my_decorator(func):
+        return lambda: "Result: " + str(func())
+
+        @my_decorator
+        def my_function():
+            return 5 + 3
+
+        print(my_function())  # Output: Result: 8```
+
+    7. Uso en una funcion de Orden superior:
+
+    ```python
+    def apply_func(func, value):
+    return func(value)
+
+    result = apply_func(lambda x: x * x, 5)
+    print(result)  # Output: 25
+    ```
+### Como funciona sort en Python
+    Sintaxis Basica de SORT:
+        ```python
+            sorted(iterable, *, key=None, reverse=False)
+        ```
+
+    1. Ordenamiento basico:
+
+        ```python
+            numbers = [34, 2, 23, 12, 45]
+            sorted_numbers = sorted(numbers)
+            print(sorted_numbers)  
+            # Output: [2, 12, 23, 34, 45]
+            ```
+    
+    
+
+    
+    
+
