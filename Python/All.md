@@ -181,3 +181,45 @@ slow_function()
     
     
 
+## Diferencias entre **enum** y **enumerate**
+**Enum (Enumeración)**
+
+enum es un tipo de datos que consiste en un conjunto de valores con nombre. La enumeración es una forma de organizar y categorizar los datos en Python. Los enumerados en Python son iterables, inmutables y únicos. Aquí hay un ejemplo básico de cómo se utiliza enum:
+
+```python
+from enum import Enum
+
+class Color(Enum):
+    RED = 1
+    GREEN = 2
+    BLUE = 3
+
+# Accediendo a los miembros de Enum
+print(Color.RED)      # Output: Color.RED
+print(Color.RED.name) # Output: RED
+print(Color.RED.value)# Output: 1
+```
+
+**Enumerate**
+
+Por otro lado, enumerate es una función incorporada en Python que retorna un objeto enumerado. Se utiliza en bucles para obtener un contador junto con el elemento iterado. La función enumerate toma dos parámetros:
+
+iterable: un objeto que se puede iterar.
+start (opcional): un número entero que especifica desde qué valor debe comenzar el contador. El valor predeterminado es 0.
+```python
+words = ["apple", "banana", "cherry"]
+
+for index, value in enumerate(words):
+    print(index, value)
+```
+
+**Conclusión**
+
+Aunque enum y enumerate puedan sonar parecidos, recuerda:
+
+- enum: 
+    Se usa para crear enumeraciones, que son un     conjunto de nombres simbólicos vinculados a     valores únicos y constantes.
+
+- enumerate: 
+    Se utiliza en la iteración para obtener
+    tanto el elemento actual en la  iteración como su índice en el iterable.
