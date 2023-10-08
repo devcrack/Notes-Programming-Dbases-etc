@@ -223,3 +223,6 @@ Aunque enum y enumerate puedan sonar parecidos, recuerda:
 - enumerate: 
     Se utiliza en la iteración para obtener
     tanto el elemento actual en la  iteración como su índice en el iterable.
+
+
+## Formas de Unir un Diccionario    
