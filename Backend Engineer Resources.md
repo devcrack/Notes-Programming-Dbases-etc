@@ -1,0 +1,2 @@
+- [Introduction Resend is the email API for developers](https://resend.com/overview)
+- [Deploy backend applications and databases in minutes](https://www.fl0.com/)
